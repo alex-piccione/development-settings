@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## Development Settings
+
+
+## SourceTree
+
+### SSH key
+SourceTree wants an SSH key only with PuTTy format.  
+Tools -> Options 
+In the SSH Client Configuration section you can change SSH Client from "PuTTy" to "OpenSSH".
+
+
+---
 
 You can use the [editor on GitHub](https://github.com/alex-piccione/development-settings/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
